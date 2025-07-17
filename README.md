@@ -9,13 +9,13 @@ Mentor: NEELA SANTOSH
 
 Welcome to the SQL JOIN practice project built during my **CODTECH Internship**. This project demonstrates practical usage of SQL JOINs on two relational tables: `Students` and `Courses`.
 
- Project Structure
+ # Project Structure
 
  sql-joins-student-course
  -sql_task01.sql
  -README.md
 
- Project Description
+ # Project Description
 
 The objective of this task is to apply SQL JOIN operations on real-world-style academic data. It involves retrieving insights by combining two related tables — one for students and another for courses.
 
@@ -25,7 +25,7 @@ This project helps solidify understanding of:
 - Handling NULLs in queries
 - Query logic construction and result analysis
 
-  Tables Used
+# Tables Used
 
 `Students`
 
@@ -51,7 +51,7 @@ This project helps solidify understanding of:
 | 108      | Cloud Computing     |
 
 
- SQL Queries Demonstrated
+# SQL Queries Demonstrated
 
 --INNER JOIN
 sql
@@ -92,7 +92,7 @@ RIGHT JOIN Courses C ON S.CourseID = C.CourseID;
 
 
 
-- How to Use
+# How to Use
 
 1. Open MySQL Workbench or your preferred SQL IDE
 2. Execute `sql_task01.sql` to create tables and insert data
@@ -100,7 +100,7 @@ RIGHT JOIN Courses C ON S.CourseID = C.CourseID;
 
 
 
-- Learning Outcomes
+# Learning Outcomes
 
 - Solid understanding of JOIN operations
 - Real-world data modeling experience
@@ -108,15 +108,15 @@ RIGHT JOIN Courses C ON S.CourseID = C.CourseID;
 - Confidence in writing professional SQL
 
 
- About the Author
+ # About the Author
  VISHWAS SONAR
  Aspiring Data Analyst  
  CODTECH Internship Participant
 
- Files Included
+ # Files Included
 - `sql_task01.sql` — Complete SQL script for the project
 - `README.md` — This documentation
 
--Contact:
+# Contact:
 -Mail me at - sonarvishwas24@gmail.com
 
