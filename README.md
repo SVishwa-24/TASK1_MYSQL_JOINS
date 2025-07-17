@@ -1,11 +1,13 @@
 SQL JOIN Practice for internship
 
+
 Company: CODTECH IT SOLUTIONS PVT. LTD.
 Name: VISHWAS SONAR
 Intern ID: CT04DH2299
 Domain: SQL
 Duration: 4 Weeks
 Mentor: NEELA SANTOSH
+
 
 Welcome to the SQL JOIN practice project built during my **CODTECH Internship**. This project demonstrates practical usage of SQL JOINs on two relational tables: `Students` and `Courses`.
 
